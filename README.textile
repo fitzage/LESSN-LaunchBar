@@ -6,7 +6,7 @@ h3. Requirements
 
 h3. Deployment Instructions
 
-# Open the script file in AppleScript Editor.
+# Open the script file in AppleScript Editor or TextMate.
 # Replace variables at the top of the script with your info (your api key and your domain name where LESSN is installed.)
 # Save the file in ~/Library/Application Support/LaunchBar/Actions and either relaunch LanchBar or tell it to reindex. Whatever filename you use when you save it is how it will show up in LaunchBar.
 
