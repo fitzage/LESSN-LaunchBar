@@ -1,0 +1,21 @@
+h3. Requirements
+
+# A Mac with "LaunchBar":http://www.obdev.at/products/launchbar/index.html installed.
+# A "LESSN":http://shauninman.com/archive/2009/08/17/less_n install on your web server.
+# Your LESSN API key (available from the admin interface in your LESSN install)
+
+h3. Deployment Instructions
+
+# Open the script file in AppleScript Editor.
+# Replace variables at the top of the script with your info (your api key and your domain name where LESSN is installed.)
+# Save the file in ~/Library/Application Support/LaunchBar/Actions and either relaunch LanchBar or tell it to reindex. Whatever filename you use when you save it is how it will show up in LaunchBar.
+
+h3. Usage Instructions
+
+# Copy URL
+# Activate LaunchBar
+# Select your script
+# Hit space bar to activate text entry into the script
+# Paste URL and hit enter
+
+After a brief wait, after which LaunchBar will deactivate, the shortened URL will be in your clipboard.
